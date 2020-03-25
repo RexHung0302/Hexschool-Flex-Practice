@@ -1,0 +1,88 @@
+:root {
+  --Primary: rgb(67, 86, 69);
+  --second: rgb(235, 240, 237);
+  --third: rgb(255, 255, 255);
+} 
+
+html,body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+}
+
+/* 通用 CSS */
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.h-50 {
+  height: 50%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.flex-direction-column {
+  flex-direction: column;
+}
+
+/* 主要內容 */
+
+.article {
+  width: 100%;
+  height: 100%;
+  background-color: var(--Primary);
+}
+
+.container .box {
+  margin-right: 20px;
+  width: calc( 100% / 3);
+}
+
+.container .box:last-child {
+  margin-right: 0px;
+}
+
+/* 上半部 */
+
+.container .upPart {
+  background-color: var(--second);
+  color: var(--Primary);
+}
+
+.container .upPart .upPart__title {
+  font-size: 3.5rem;
+  font-weight: 400;
+}
+
+
+/* 下半部 */
+
+.container .downPart {
+  background-color: var(--third);
+  padding: 2rem;
+}
+
+.container .downPart .downPart__title {
+  color: var(--Primary);
+}
