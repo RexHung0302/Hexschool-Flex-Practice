@@ -2,25 +2,25 @@
 
 這是一份六角學院的 Flex 練習，內容包含下列十個項目：
 
-1. **並排卡片**
+1. **[並排卡片](https://rexhung0302.github.io/Hexschool-Flex-Practice/1/1.html)**
 
-2. **雙欄排版**
+2. **[雙欄排版](https://rexhung0302.github.io/Hexschool-Flex-Practice/2/2.html)**
 
-3. **雙欄選單設計**
+3. **[雙欄選單設計](https://rexhung0302.github.io/Hexschool-Flex-Practice/3/3.html)**
 
-4. **表頭表尾設計**
+4. **[表頭表尾設計](https://rexhung0302.github.io/Hexschool-Flex-Practice/4/4.html)**
 
-5. **常見三種排版**
+5. **[常見三種排版](https://rexhung0302.github.io/Hexschool-Flex-Practice/5/5.html)**
 
-6. **圖文並排**
+6. **[圖文並排](https://rexhung0302.github.io/Hexschool-Flex-Practice/6/6.html)**
 
-7. **首頁橫幅排版**
+7. **[首頁橫幅排版](https://rexhung0302.github.io/Hexschool-Flex-Practice/7/7.html)**
 
-8. **圖文並排設計**
+8. **[圖文並排設計](https://rexhung0302.github.io/Hexschool-Flex-Practice/8/8.html)**
 
-9. **訂單明細**
+9. **[訂單明細](https://rexhung0302.github.io/Hexschool-Flex-Practice/9/9.html)**
 
-10. **產品列表**
+10. **[產品列表](https://rexhung0302.github.io/Hexschool-Flex-Practice/10/10.html)**
 
 > 此一份練習題目也有試著引入 `SMACSS` 及 `OOCSS` 模組化CSS ，如果不清楚的可以查看這篇文章[[CSS Notes] - CSS模組化](https://rexhung0302.github.io/2019/05/30/20190530/)。
 
