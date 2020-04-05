@@ -35,7 +35,7 @@
 
 2. $ cd Hexschool-Flex-Practice
 
-3. 打開 Example 自行練習 或 點擊各資料夾參考
+3. 打開 Example 自行照著題目練習切版 或 點擊各資料夾參考
 
 4. Enjoy it!
 ```
