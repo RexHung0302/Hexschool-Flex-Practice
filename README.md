@@ -24,6 +24,8 @@
 
 > 此一份練習題目也有試著引入 `SMACSS` 及 `OOCSS` 模組化CSS ，如果不清楚的可以查看這篇文章[[CSS Notes] - CSS模組化](https://rexhung0302.github.io/2019/05/30/20190530/)。
 
+後更 4/5： 修正一個網頁有多個 ```h1``` 的問題，另外 ***CSS*** 命名過長，比如 ```.container .box.boxLeft .box__content .downPart .menu .li```，這樣將會造成瀏覽器渲染過久，改為 ```.menu .li```，另外將 Class Name 階層也盡量縮短，然後將它模組化，譬如 ```.container .upPart```， 標籤的地方都另外加上 ```<a></a>```。
+
 ---
 
 ## 使用方法
